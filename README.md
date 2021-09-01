@@ -11,7 +11,7 @@
 
 ## Problems
 
-- <kbs>Alt+Space</kbd> doesn't work when the focus is inside `WebView2` (although <kbd>Alt+F4</kbd> does).
+- <kbd>Alt+Space</kbd> doesn't work when the focus is inside `WebView2` (although <kbd>Alt+F4</kbd> does).
 - App-specific WinForms accelerators (e.g., <kbd>Alt+X</kbd>) don't work when the focus is inside `WebView2`.
 - Pressing and releasing <kbd>Alt</kbd> inside `WebView2` activates WinForms menu, but focus remains inside `WebView2`: 
   ![](https://i.stack.imgur.com/GREr6l.png)
